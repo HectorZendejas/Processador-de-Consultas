@@ -1,4 +1,4 @@
-# Projeto 2 - Processador de Consultas
+# AV 2 - Processador de Consultas
 
 Este projeto foi desenvolvido para atender ao trabalho **Processador de Consultas** da disciplina de **Banco de Dados**.
 
