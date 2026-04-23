@@ -1,0 +1,1 @@
+# Tkinter já vem com a instalação padrão do Python.
